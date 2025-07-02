@@ -1,9 +1,9 @@
-streamlit==1.28.1
-pandas==2.2.2
-beautifulsoup4==4.12.2
+streamlit==1.35.0
+pandas==2.2.3
+beautifulsoup4==4.12.3
 openpyxl==3.1.2
 python-magic==0.4.27
-webcolors==1.13
+webcolors==24.11.1
 pyarrow==19.0.1
 docx2pdf==0.1.8
 weasyprint==60.2
